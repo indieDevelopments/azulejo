@@ -15,9 +15,13 @@ But we have to write code. That's the price. But we've already paid it a lot.
 
 ## What's inside
 Universe is built on top of awesome [Feathers](http://feathersjs.com/) (powered by Express), and divided in separate modules:
+
 1. [universe-core](https://github.com/indieDevelopments/universe-core) — contains basic utils and services to work with DB.
+
 2. [coming soon] universe-module — app template which can be used as subapp or as standalone app. It may be a separate API realization, an e-commerce module, etc…
+
 3. [coming soon] universe-space — regular application template in a nutshell.
+
 4. [coming soon] universe-man — app which allows to manage DB data via web-interface
 
 
