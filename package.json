@@ -1,0 +1,23 @@
+{
+  "name": "universe",
+  "version": "1.0.0",
+  "keywords": [
+    "universe",
+    "feathers",
+    "modx"
+  ],
+  "author": "indieDevelopments",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indieDevelopments/universe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indieDevelopments/universe/issues"
+  },
+  "homepage": "https://github.com/indieDevelopments/universe#readme"
+}
