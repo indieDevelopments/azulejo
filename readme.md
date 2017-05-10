@@ -14,12 +14,13 @@ We assume that the main worth of application is data. Everything else is optiona
 But we have to write code. That's the price. But we've already paid it a lot.
 
 ## What's inside
+
 Azulejo is built on top of awesome [Feathers](http://feathersjs.com/) (powered by Express), and divided in separate modules:
+
 1. [azulejo-core](https://github.com/indieDevelopments/azulejo-core) — contains basic utils and services to work with DB.
-2. [coming soon] azulejo-module — app template which can be used as subapp or as standalone app. It may be a separate API realization, an e-commerce module, etc…
+
+2. [azulejo-module](https://github.com/indieDevelopments/azulejo-module) — app template which can be used as subapp or as standalone app. It may be a separate API realization, an e-commerce module, etc…
+
 3. [coming soon] azulejo-space — regular application template in a nutshell.
-4. [coming soon] azulejo-man — app which allows to manage DB data via web-interface
 
-
-
-
+4. [coming soon] azulejo-man — app which allows to manage DB data via web-interface.
