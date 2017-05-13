@@ -14,10 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indieDevelopments/azulejo.git"
+    "url": "git+https://github.com/indiedevelopments/azulejo.git"
   },
   "bugs": {
-    "url": "https://github.com/indieDevelopments/azulejo/issues"
+    "url": "https://github.com/indiedevelopments/azulejo/issues",
+    "email": "io@indiedevelopments.ru"
   },
-  "homepage": "https://github.com/indieDevelopments/azulejo#readme"
+  "homepage": "https://github.com/indiedevelopments/azulejo#readme"
 }
