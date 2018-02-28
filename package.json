@@ -10,7 +10,9 @@
   "license": "MIT",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gen:docs": "node_modules/.bin/esdoc -c .esdoc.json",
+    "prepare": "npm run gen:docs"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,10 @@
     "url": "https://github.com/indiedevelopments/azulejo/issues",
     "email": "io@indiedevelopments.ru"
   },
-  "homepage": "https://github.com/indiedevelopments/azulejo#readme"
+  "homepage": "https://github.com/indiedevelopments/azulejo#readme",
+  "devDependencies": {
+    "esdoc": "^1.0.4",
+    "esdoc-standard-plugin": "^1.0.0",
+    "marked": "^0.3.9"
+  }
 }
